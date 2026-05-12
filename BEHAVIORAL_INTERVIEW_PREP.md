@@ -1,6 +1,4 @@
-# Senior Software Engineer — Behavioral Interview Preparation Guide
-## Srinivas Balusu | Lead Software Engineer → Targeting Senior SWE
-
+# Behavioral Interview Preparation Guide
 ---
 
 ## Table of Contents
@@ -156,15 +154,17 @@
 
 ### Answer (2 min version):
 
-I'm Srinivas Balusu — I build and own distributed systems that process millions of events daily. Fourteen years in, and I still spend 70-80% of my time writing code. That's intentional.
+I’m Srinivas Balusu, a Lead Software Engineer with about 14 years of experience building large-scale distributed systems and cloud platforms. 
 
-Right now at Railinc, I'm the lead engineer behind our enterprise file transfer platform — 50,000 files a day, 10 million events flowing through Kafka, serving multiple business units with strict SLAs. I architected the whole thing: the AWS infrastructure on EKS, the event-driven ingestion layer, the multi-tenant isolation model.
+At Railinc, I currently lead multiple modernization initiatives focused on cloud migration and high-scale event processing. One of them is an enterprise Managed File Transfer platform processing over 50,000 files daily across multiple business units, where I own the architecture end-to-end — from AWS Transfer Family ingestion to EKS-based processing pipelines.
 
-Three results I'm most proud of here: I tripled our Kafka throughput under peak load by rethinking how we batch and parallelize consumers. I cut 60% of our storage IOPS by redesigning file polling from scratch. And I drove the Oracle-to-PostgreSQL migration that saved 20% in infrastructure costs while actually improving latency.
+I also work on a Kafka-based event ingestion platform for Railinc’s messaging ecosystem that processes more than 10 million events per day. A big part of my role involves solving scalability and reliability challenges across distributed systems, performance optimization, and driving architectural decisions.
 
-Before Railinc, I was at Walmart leading the Automated Case Labeling system in Supply Chain. The challenge was a 6-second SLA that everyone said was impossible given our external dependencies. I designed a pre-generation architecture that solved it — and that system went on to save Walmart roughly $12 million a year in labor costs across 20+ distribution centers.
+What I enjoy most is operating across the full engineering stack — I might be discussing multi-tenant architecture or distributed system tradeoffs with architects in the morning, and later in the day debugging Kafka consumers or optimizing application services alongside the team.
 
-What I'm looking for next is a place where the scale of problems matches my ambition. I want to architect systems that serve millions of users globally, work alongside engineers who challenge my thinking, and drive decisions that shape how an entire platform evolves.
+Before Railinc, I worked at Walmart on supply chain automation initiatives. One project I’m particularly proud of was the Automated Case Labeling platform, where we had a strict six-second SLA that many believed wasn’t achievable. I designed a pre-generation architecture that helped meet the SLA consistently, and the solution eventually contributed to roughly $12 million in annual operational savings across more than 20 distribution centers.
+
+At this stage of my career, I’m looking for opportunities where I can continue working on deeply technical, large-scale systems alongside strong engineering teams, while also contributing to architecture, technical direction, and long-term platform evolution.
 
 ---
 
@@ -1114,11 +1114,6 @@ I am not looking to move into pure management. I want to grow on the technical l
 
 ---
 
-*Document prepared for Srinivas Balusu | Lead Software Engineer | Targeting Senior SWE | 14+ years experience*
-*Last updated: May 2026*
-
----
-
 ## 15. Additional Questions: Introduction & Motivation
 
 ### Q: Walk me through your resume.
@@ -1944,7 +1939,3 @@ I am explicitly NOT looking to move into pure management. I want to grow on the 
 ```
 
 ---
-
-*Document prepared for Srinivas Balusu | Lead Software Engineer | Targeting Senior SWE | 14+ years experience*
-*Covers all 12 categories from questions.txt with 35+ detailed STAR answers*
-*Last updated: May 2026*
