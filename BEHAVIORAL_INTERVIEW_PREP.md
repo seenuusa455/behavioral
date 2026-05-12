@@ -940,16 +940,16 @@ I am drawn to [Company] for three reasons:
 
 ```
 +----------------------------------------------------------------------------------------------------------+
-|                              STORY SELECTION QUICK REFERENCE                                              |
+|                              STORY SELECTION QUICK REFERENCE                                             |
 +----------------------------------------------------------------------------------------------------------+
 |                                                                                                          |
 |  LEADERSHIP / INFLUENCE          --> RMS Migration, Java Standardization at Walmart                      |
-|  TECHNICAL DECISION              --> Oracle-to-PostgreSQL, EFS Polling Optimization                       |
+|  TECHNICAL DECISION              --> Oracle-to-PostgreSQL, EFS Polling Optimization                      |
 |  CONFLICT                        --> Microservice Architecture Debate, PR Review Friction, KT Buddy      |
 |  PRESSURE / DEADLINES            --> ACL Rollout (47 DCs), Multi-project Juggling                        |
 |  INNOVATION                      --> Label Pre-Generation (6s SLA), Kafka 3x Throughput                  |
 |  FAILURE                         --> IE Browser Bug, Disagreed with Boss on Untested Deploy              |
-|  TEAMWORK                        --> Covering for Sick Colleagues, Supporting Struggling Teammate         |
+|  TEAMWORK                        --> Covering for Sick Colleagues, Supporting Struggling Teammate        |
 |  MENTORSHIP                      --> Interns at Walmart, Late-Delivering Developer                       |
 |  STAKEHOLDER MGMT                --> Budget Approval, Day-One Production Incident                        |
 |  SYSTEM OWNERSHIP                --> MFT Platform (50K files/day), AWS Transfer Family Migration         |
@@ -1010,41 +1010,41 @@ I am drawn to [Company] for three reasons:
 ### Senior-Level Signal Checklist:
 
 ```
-+------------------------------------------------------------------+
-|  FOR EVERY ANSWER, HIT AT LEAST 3 OF THESE SIGNALS:              |
-+------------------------------------------------------------------+
-|                                                                    |
++-------------------------------------------------------------------+
+|  FOR EVERY ANSWER, HIT AT LEAST 3 OF THESE SIGNALS:               |
++-------------------------------------------------------------------+
+|                                                                   |
 |  [ ] SCOPE        - Cross-team or org-wide impact                 |
 |  [ ] OWNERSHIP    - I drove/decided/architected (not just coded)  |
 |  [ ] TRADE-OFFS   - Considered alternatives, chose with rationale |
-|  [ ] METRICS      - Quantified the impact (3x, 60%, )        |
+|  [ ] METRICS      - Quantified the impact (3x, 60%, )             |
 |  [ ] INFLUENCE    - Changed how others work or think              |
 |  [ ] GROWTH       - Grew others or grew yourself                  |
 |  [ ] JUDGMENT     - Made a hard call with incomplete information  |
-|                                                                    |
-+------------------------------------------------------------------+
+|                                                                   |
++-------------------------------------------------------------------+
 ```
 
 ### Key Metrics Quick Reference:
 
 ```
-+------------------------------------------------------------------+
++-------------------------------------------------------------------+
 |  YOUR IMPACT NUMBERS (memorize these):                            |
-+------------------------------------------------------------------+
-|                                                                    |
++-------------------------------------------------------------------+
+|                                                                   |
 |  Kafka throughput:        3x improvement under peak load          |
 |  EFS IOPS:               60% reduction                            |
 |  Oracle -> PostgreSQL:    20% cost reduction, 30% latency gain    |
 |  MFT Platform:           50K+ files/day, 99.9% reliability        |
 |  Event Pipeline:         10M+ events/day                          |
-|  ACL at Walmart:         ~/year labor savings                 |
+|  ACL at Walmart:         ~/year labor savings                     |
 |  Label SLA:              6 seconds -> met via pre-generation      |
 |  Processing latency:     ~40% reduction                           |
-|  DC Rollout:             20+ distribution centers                  |
+|  DC Rollout:             20+ distribution centers                 |
 |  Team size led:          Up to 15 engineers                       |
 |  CI/CD improvement:      ~50% deployment time reduction           |
-|                                                                    |
-+------------------------------------------------------------------+
+|                                                                   |
++-------------------------------------------------------------------+
 
 ```
 
@@ -1094,12 +1094,12 @@ I am not looking to move into pure management. I want to grow on the technical l
 ## Quick Prep Checklist (Day Before Interview)
 
 ```
-+------------------------------------------------------------------+
++-------------------------------------------------------------------+
 |  PRE-INTERVIEW CHECKLIST                                          |
-+------------------------------------------------------------------+
-|                                                                    |
++-------------------------------------------------------------------+
+|                                                                   |
 |  [ ] Review this document (focus on flow diagrams)                |
-|  [ ] Practice Tell Me About Yourself (time it: 2 min max)        |
+|  [ ] Practice Tell Me About Yourself (time it: 2 min max)         |
 |  [ ] Pick 5 stories that cover all categories                     |
 |  [ ] Memorize your key metrics                                    |
 |  [ ] Research the company (recent news, tech blog, team)          |
@@ -1107,8 +1107,8 @@ I am not looking to move into pure management. I want to grow on the technical l
 |  [ ] Test your setup (camera, mic, lighting, background)          |
 |  [ ] Have water and notepad ready                                 |
 |  [ ] Arrive/log in 5 minutes early                                |
-|                                                                    |
-+------------------------------------------------------------------+
+|                                                                   |
++-------------------------------------------------------------------+
 
 ```
 
@@ -1418,27 +1418,27 @@ He showed me PRs where I had left 30+ comments on non-critical style issues whil
 My framework for this trade-off:
 
 ```
-+------------------------------------------------------------------+
++-------------------------------------------------------------------+
 |  SPEED vs QUALITY DECISION MATRIX                                 |
-+------------------------------------------------------------------+
-|                                                                    |
++-------------------------------------------------------------------+
+|                                                                   |
 |  HIGH RISK + HIGH VISIBILITY = Quality wins (take the time)       |
 |  - Production data paths                                          |
 |  - Security/compliance features                                   |
 |  - Core platform components                                       |
-|                                                                    |
+|                                                                   |
 |  LOW RISK + TIME PRESSURE = Speed wins (ship and iterate)         |
 |  - Internal tools                                                 |
 |  - Non-critical features                                          |
 |  - Experiments/PoCs                                               |
-|                                                                    |
+|                                                                   |
 |  ALWAYS NON-NEGOTIABLE (regardless of speed):                     |
 |  - Tests for critical paths                                       |
 |  - Error handling                                                 |
 |  - Security basics (auth, input validation)                       |
 |  - Monitoring/alerting                                            |
-|                                                                    |
-+------------------------------------------------------------------+
+|                                                                   |
++-------------------------------------------------------------------+
 ```
 
 **Real example:** When we needed to ship the Kafka throughput optimization at Railinc, I chose to ship the batching improvement first (high impact, well-understood) and defer the partition rebalancing (complex, needed more testing) to the next sprint. The batching alone gave us 2x improvement, and we shipped the partition work the following week with proper load testing. Speed where safe, quality where it matters.
@@ -1823,16 +1823,16 @@ I am explicitly NOT looking to move into pure management. I want to grow on the 
 ## 23. Updated Master Story Map
 
 ```
-+----------------------------------------------------------------------------------------------------------+
-|                         COMPLETE STORY SELECTION REFERENCE                                                |
-+----------------------------------------------------------------------------------------------------------+
-|                                                                                                          |
++---------------------------------------------------------------------------------------------------------+
+|                         COMPLETE STORY SELECTION REFERENCE                                              |
++---------------------------------------------------------------------------------------------------------+
+|                                                                                                         |
 | CATEGORY                    | PRIMARY STORIES                                                           |
 |-----------------------------+---------------------------------------------------------------------------|
 | Tell Me About Yourself      | 2-min intro (Railinc + Walmart highlights)                                |
 | Walk Through Resume         | Chronological: Debuggers -> UNH -> Railinc -> Walmart -> Railinc          |
-| Why This Company            | Scale + Technical Culture + Growth (adapt per company)                     |
-| Why Move                    | Ready for larger scale, global impact, senior-level challenges              |
+| Why This Company            | Scale + Technical Culture + Growth (adapt per company)                    |
+| Why Move                    | Ready for larger scale, global impact, senior-level challenges            |
 |-----------------------------+---------------------------------------------------------------------------|
 | Leadership                  | RMS Migration (tight deadline + SME left)                                 |
 |                             | Java Standardization at Walmart (influence)                               |
@@ -1845,15 +1845,15 @@ I am explicitly NOT looking to move into pure management. I want to grow on the 
 |-----------------------------+---------------------------------------------------------------------------|
 | Conflict                    | Architecture Debate at Walmart (hybrid solution)                          |
 |                             | PR Review Friction (empathy + pair programming)                           |
-|                             | KT Buddy at Walmart (relationship building)                              |
+|                             | KT Buddy at Walmart (relationship building)                               |
 |                             | Disagreed with Vendor Selection (disagree and commit)                     |
 |-----------------------------+---------------------------------------------------------------------------|
-| Pressure / Deadlines        | ACL Rollout to 47 DCs (understaffed + 24/7)                              |
+| Pressure / Deadlines        | ACL Rollout to 47 DCs (understaffed + 24/7)                               |
 |                             | Multi-project Juggling at Railinc                                         |
 |                             | Oracle Migration Timeline Slip (early communication)                      |
 |                             | Mid-Sprint Compliance Pivot                                               |
 |-----------------------------+---------------------------------------------------------------------------|
-| Innovation                  | Label Pre-Generation at Walmart (6s SLA,  savings)                    |
+| Innovation                  | Label Pre-Generation at Walmart (6s SLA,  savings)                        |
 |                             | Kafka 3x Throughput (batching + parallelism)                              |
 |                             | Rust File Parser (4x performance)                                         |
 |-----------------------------+---------------------------------------------------------------------------|
@@ -1896,7 +1896,7 @@ I am explicitly NOT looking to move into pure management. I want to grow on the 
 |-----------------------------+---------------------------------------------------------------------------|
 | Feedback                    | Code review feedback (too detailed)                                       |
 |                             | Manager feedback on delegation                                            |
-+----------------------------------------------------------------------------------------------------------+
++---------------------------------------------------------------------------------------------------------+
 
 ```
 
@@ -1905,41 +1905,41 @@ I am explicitly NOT looking to move into pure management. I want to grow on the 
 ## 24. Final Tips for Senior-Level Interviews
 
 ```
-+------------------------------------------------------------------+
++-------------------------------------------------------------------+
 |  STAFF-LEVEL INTERVIEW MINDSET                                    |
-+------------------------------------------------------------------+
-|                                                                    |
++-------------------------------------------------------------------+
+|                                                                   |
 |  1. THINK IN SYSTEMS, NOT FEATURES                                |
 |     - How does this affect the broader architecture?              |
 |     - What are the second-order effects?                          |
 |     - How does this scale to 10x?                                 |
-|                                                                    |
+|                                                                   |
 |  2. LEAD WITH IMPACT, NOT ACTIVITY                                |
-|     - Bad: I wrote a Kafka consumer                              |
-|     - Good: I improved pipeline throughput 3x by redesigning     |
+|     - Bad: I wrote a Kafka consumer                               |
+|     - Good: I improved pipeline throughput 3x by redesigning      |
 |             the consumer batching strategy                        |
-|                                                                    |
+|                                                                   |
 |  3. SHOW JUDGMENT, NOT JUST EXECUTION                             |
-|     - What did you decide NOT to do?                             |
-|     - What trade-offs did you make?                              |
+|     - What did you decide NOT to do?                              |
+|     - What trade-offs did you make?                               |
 |     - How did you handle incomplete information?                  |
-|                                                                    |
+|                                                                   |
 |  4. DEMONSTRATE MULTIPLIER EFFECT                                 |
-|     - How did your work enable others?                           |
-|     - What patterns/templates did you create?                    |
-|     - How did you grow the team?                                 |
-|                                                                    |
+|     - How did your work enable others?                            |
+|     - What patterns/templates did you create?                     | 
+|     - How did you grow the team?                                  |
+|                                                                   |
 |  5. OWN FAILURES COMPLETELY                                       |
-|     - No blame, no excuses                                       |
-|     - What systemic change did you make?                         |
-|     - How did you prevent recurrence?                            |
-|                                                                    |
+|     - No blame, no excuses                                        |
+|     - What systemic change did you make?                          |
+|     - How did you prevent recurrence?                             |
+|                                                                   |
 |  6. QUANTIFY EVERYTHING                                           |
-|     - 3x throughput, 60% IOPS reduction,  savings            |
-|     - 50K files/day, 10M events/day, 99.9% reliability           |
-|     - 20% cost reduction, 40% latency improvement                |
-|                                                                    |
-+------------------------------------------------------------------+
+|     - 3x throughput, 60% IOPS reduction,  savings                 |
+|     - 50K files/day, 10M events/day, 99.9% reliability            |
+|     - 20% cost reduction, 40% latency improvement                 |
+|                                                                   |
++-------------------------------------------------------------------+
 
 ```
 
