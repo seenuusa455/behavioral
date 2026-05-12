@@ -1,0 +1,176 @@
+1. Introduction / Background
+
+These are almost always asked.
+
+Tell me about yourself
+Walk me through your resume
+Tell me about your current role
+Why software engineering?
+What kind of work do you enjoy most?
+What motivates you?
+What are you most proud of in your career?
+2. Project Deep Dive (VERY IMPORTANT)
+
+Google especially spends a lot of time here.
+
+Tell me about a project you worked on end-to-end
+Describe the most technically challenging project
+Tell me about a large-scale distributed system you designed
+What was your biggest impact project?
+Tell me about a migration/modernization effort
+Describe a project where you improved performance/scalability
+Tell me about a production issue you solved
+Describe a system you optimized significantly
+What tradeoffs did you make?
+What would you do differently now?
+
+For you, strong examples:
+
+AWS Transfer Family migration
+Kafka/EFS optimization
+Secure Transport replacement
+Large-scale PostgreSQL indexing optimization
+Rust performance tuning
+Production incident handling
+3. Conflict / Disagreement Questions
+
+These are extremely common.
+
+Tell me about a disagreement with a teammate
+Tell me about a disagreement with your manager
+Describe a situation where stakeholders disagreed
+Tell me about a time you pushed back
+How do you handle difficult team members?
+Describe a time you had to influence without authority
+Tell me about a decision you strongly disagreed with
+How do you handle criticism?
+
+Google interviewers especially look for:
+
+Humility
+Collaboration
+Data-driven thinking
+Non-defensive communication
+4. Leadership & Ownership
+
+Critical for L5/L6.
+
+Tell me about a time you led a project
+Describe leadership without formal authority
+Tell me about a time you took ownership
+Describe a critical production incident you handled
+Tell me about a time you went above expectations
+Describe mentoring a junior engineer
+Tell me about driving alignment across teams
+Describe handling ambiguity in leadership
+5. Failure / Mistakes
+
+Very common at Google and Amazon.
+
+Tell me about a failure
+Tell me about a mistake you made
+Describe a project that didn’t go well
+Tell me about a missed deadline
+What’s your biggest professional regret?
+Tell me about a bad technical decision
+Describe a time your design failed in production
+
+Important:
+
+Don’t blame others
+Show ownership
+Explain lessons learned
+Explain prevention mechanisms added later
+6. Handling Pressure / Constraints
+
+You already identified this category correctly.
+
+Tell me about a high-pressure situation
+Describe handling tight deadlines
+Tell me about competing priorities
+Describe working with limited resources
+Tell me about handling production outages
+How do you prioritize work?
+Describe balancing speed vs quality
+Tell me about a time requirements changed suddenly
+7. Technical Fluency / Decision Making
+
+This becomes important for senior roles.
+
+Explain a difficult technical decision
+Tell me about a tradeoff you made
+Describe scaling challenges
+Why did you choose a specific technology?
+Tell me about improving system reliability
+Explain a design decision you defended
+Describe reducing latency or improving throughput
+Tell me about debugging a hard issue
+8. Behavioral “Googliness” Questions
+
+Very important for Google.
+
+Tell me about learning something quickly
+Describe working in ambiguity
+Tell me about adapting to change
+Tell me about collaborating cross-functionally
+Describe helping a struggling teammate
+Tell me about receiving difficult feedback
+Tell me about making an inclusive decision
+Describe a time you changed your mind
+9. Career / Motivation Questions
+
+You already captured many of these.
+
+Why do you want to work here?
+Why are you leaving your current company?
+What are you looking for next?
+Where do you see yourself in 5 years?
+What kind of culture do you prefer?
+Why this team/domain?
+What excites you technically?
+
+Avoid:
+
+Salary-only answers
+Complaining about current employer
+Generic company praise
+10. Weakness / Self-Awareness
+
+Almost always appears in some form.
+
+What is your biggest weakness?
+What skill are you improving?
+Tell me about feedback you received
+What would your manager say you need to improve?
+What’s an area you struggle with?
+
+Good answers:
+
+Real but manageable weakness
+Clear improvement effort
+Demonstrated progress
+11. Team Collaboration
+
+Especially important at large companies.
+
+Describe working with QA/Product/Business teams
+Tell me about cross-team dependencies
+Describe resolving communication gaps
+Tell me about difficult stakeholders
+Describe handling conflicting priorities across teams
+Tell me about coordinating a release
+
+Your UKHSA/client coordination examples are very useful here.
+
+12. Behavioral Questions Specific to Senior Engineers
+
+These differentiate L5/L6.
+
+Tell me about influencing architecture direction
+Describe scaling an organization/process
+Tell me about long-term technical vision
+Describe balancing technical debt vs feature delivery
+Tell me about creating operational excellence
+Describe improving engineering productivity
+Tell me about preventing future incidents
+Explain how you drove standardization
