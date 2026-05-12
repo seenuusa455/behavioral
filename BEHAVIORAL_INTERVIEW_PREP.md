@@ -1,4 +1,5 @@
-# Behavioral Interview Preparation Guide
+# Senior Software Engineer — Behavioral Interview Preparation Guide
+## Srinivas Balusu | Lead Software Engineer → Targeting Senior SWE
 
 ---
 
@@ -118,7 +119,7 @@
 
 **26. [Updated Master Story Map](#23-updated-master-story-map)**
 
-**27. [Final Tips for Staff-Level Interviews](#24-final-tips-for-staff-level-interviews)**
+**27. [Final Tips for Senior-Level Interviews](#24-final-tips-for-senior-level-interviews)**
 
 ---
 
@@ -132,7 +133,7 @@
 +------------+     +----------+     +----------+     +----------+
 ```
 
-**Tips for Staff-Level Answers:**
+**Tips for Senior-Level Answers:**
 - Lead with IMPACT (metrics, scale, business outcome)
 - Show OWNERSHIP (I drove, I architected, I decided)
 - Demonstrate INFLUENCE (cross-team, stakeholders, org-wide)
@@ -157,7 +158,7 @@
 
 I'm Srinivas Balusu — I build and own distributed systems that process millions of events daily. Fourteen years in, and I still spend 70-80% of my time writing code. That's intentional.
 
-Right now at Railinc, I'm the principal engineer behind our enterprise file transfer platform — 50,000 files a day, 10 million events flowing through Kafka, serving multiple business units with strict SLAs. I architected the whole thing: the AWS infrastructure on EKS, the event-driven ingestion layer, the multi-tenant isolation model.
+Right now at Railinc, I'm the lead engineer behind our enterprise file transfer platform — 50,000 files a day, 10 million events flowing through Kafka, serving multiple business units with strict SLAs. I architected the whole thing: the AWS infrastructure on EKS, the event-driven ingestion layer, the multi-tenant isolation model.
 
 Three results I'm most proud of here: I tripled our Kafka throughput under peak load by rethinking how we batch and parallelize consumers. I cut 60% of our storage IOPS by redesigning file polling from scratch. And I drove the Oracle-to-PostgreSQL migration that saved 20% in infrastructure costs while actually improving latency.
 
@@ -877,7 +878,7 @@ But I have reached a point where the scale of problems I want to solve exceeds w
 
 3. **Broader impact**: Architectural decisions that affect hundreds of engineers, not just my team of 4
 
-4. **Growth as a technical leader**: Working alongside other staff+ engineers who push my thinking
+4. **Growth as a technical leader**: Working alongside other senior+ engineers who push my thinking
 
 I am not running from anything. I am running toward the next level of challenge. I want to be in an environment where the problems are hard enough that I am learning every week.
 
@@ -919,7 +920,7 @@ I am drawn to [Company] for three reasons:
 
 8. How do you ensure effective collaboration across distributed teams and time zones?
 
-9. What does career growth look like for a staff-level engineer here? Is there a technical track?
+9. What does career growth look like for a senior-level engineer here? Is there a technical track?
 
 10. How does the team handle disagreements on technical direction?
 
@@ -1006,7 +1007,7 @@ I am drawn to [Company] for three reasons:
                     +-------------------+
 ```
 
-### Staff-Level Signal Checklist:
+### Senior-Level Signal Checklist:
 
 ```
 +------------------------------------------------------------------+
@@ -1079,7 +1080,7 @@ At Railinc, I actively seek feedback from my team during retros and 1:1s. I have
 
 **Answer:**
 
-In 5 years, I want to be operating at a distinguished/principal engineer level where I am:
+In 5 years, I want to be operating at a staff/principal engineer level where I am:
 
 - Setting technical direction for an entire product area or platform
 - Mentoring the next generation of staff engineers
@@ -1113,7 +1114,7 @@ I am not looking to move into pure management. I want to grow on the technical l
 
 ---
 
-*Document prepared for Srinivas Balusu | Principal Software Engineer | 14+ years experience*
+*Document prepared for Srinivas Balusu | Lead Software Engineer | Targeting Senior SWE | 14+ years experience*
 *Last updated: May 2026*
 
 ---
@@ -1749,7 +1750,7 @@ Both of these come from the same root: I care deeply about delivery and the team
 
 **Answer:**
 
-In 5 years, I want to be operating at a distinguished/staff+ engineer level where I am:
+In 5 years, I want to be operating at a distinguished/staff engineer level where I am:
 
 - **Setting technical direction** for an entire product area or platform, not just a single team
 - **Mentoring the next generation** of staff engineers, helping them make the leap from senior to staff
@@ -1831,7 +1832,7 @@ I am explicitly NOT looking to move into pure management. I want to grow on the 
 | Tell Me About Yourself      | 2-min intro (Railinc + Walmart highlights)                                |
 | Walk Through Resume         | Chronological: Debuggers -> UNH -> Railinc -> Walmart -> Railinc          |
 | Why This Company            | Scale + Technical Culture + Growth (adapt per company)                     |
-| Why Move                    | Ready for larger scale, global impact, staff-level challenges              |
+| Why Move                    | Ready for larger scale, global impact, senior-level challenges              |
 |-----------------------------+---------------------------------------------------------------------------|
 | Leadership                  | RMS Migration (tight deadline + SME left)                                 |
 |                             | Java Standardization at Walmart (influence)                               |
@@ -1901,7 +1902,7 @@ I am explicitly NOT looking to move into pure management. I want to grow on the 
 
 ---
 
-## 24. Final Tips for Staff-Level Interviews
+## 24. Final Tips for Senior-Level Interviews
 
 ```
 +------------------------------------------------------------------+
@@ -1944,6 +1945,6 @@ I am explicitly NOT looking to move into pure management. I want to grow on the 
 
 ---
 
-*Document prepared for Srinivas Balusu | Principal Software Engineer | 14+ years experience*
+*Document prepared for Srinivas Balusu | Lead Software Engineer | Targeting Senior SWE | 14+ years experience*
 *Covers all 12 categories from questions.txt with 35+ detailed STAR answers*
 *Last updated: May 2026*
