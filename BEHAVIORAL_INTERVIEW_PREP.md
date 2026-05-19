@@ -7,97 +7,100 @@
 
 **2. [Tell Me About Yourself](#1-tell-me-about-yourself)**
 
-**3. [Leadership & Influence](#2-leadership--influence)**
+**3. [Why Move from Lead to Senior at Google?](#2-why-move-from-lead-engineer-to-senior-engineer-at-google)**
+   - Why move from Lead Engineer at a smaller company to Senior Engineer at Google?
+
+**4. [Leadership & Influence](#3-leadership--influence)**
    - Tell me about a time you led a project under tight deadlines
    - Tell me about a time you influenced a technical decision across teams
 
-**4. [Technical Decision Making](#3-technical-decision-making)**
+**5. [Technical Decision Making](#4-technical-decision-making)**
    - Tell me about a tough technical decision that impacted the team or project
    - Describe a time you had to make an architectural trade-off
 
-**5. [Conflict Resolution](#4-conflict-resolution)**
+**6. [Conflict Resolution](#5-conflict-resolution)**
    - Describe a situation where you resolved a conflict within your team
    - Tell me about a time you worked with a difficult coworker
    - Tell me about a time you had a conflict with your onboarding buddy
 
-**6. [Handling Pressure & Deadlines](#5-handling-pressure--deadlines)**
+**7. [Handling Pressure & Deadlines](#6-handling-pressure--deadlines)**
    - Tell me about a time you dealt with a high-pressure situation
    - How do you manage your time when working on multiple projects?
 
-**7. [Innovation & Problem Solving](#6-innovation--problem-solving)**
+**8. [Innovation & Problem Solving](#7-innovation--problem-solving)**
    - Describe a time you introduced an innovative solution to a complex problem
    - Tell me about a time you improved system performance significantly
 
-**8. [Failure & Learning](#7-failure--learning)**
+**9. [Failure & Learning](#8-failure--learning)**
    - Tell me about a time you failed at work
    - Tell me about a time you disagreed with your boss
 
-**9. [Teamwork & Collaboration](#8-teamwork--collaboration)**
+**10. [Teamwork & Collaboration](#9-teamwork--collaboration)**
    - Describe a time when you worked effectively as a team
    - Tell me about a time you went above and beyond for a teammate
    - How do you handle working across time zones?
 
-**10. [Mentorship & Growing Others](#9-mentorship--growing-others)**
+**11. [Mentorship & Growing Others](#10-mentorship--growing-others)**
    - Tell me about a time you mentored someone
    - Give me a time when you motivated others
 
-**11. [Stakeholder Management](#10-stakeholder-management)**
+**12. [Stakeholder Management](#11-stakeholder-management)**
    - How have you dealt with a reluctant or uncooperative senior stakeholder?
    - Tell me about a time you had to handle a difficult situation on your first day
 
-**12. [System Design & Ownership](#11-system-design--ownership)**
+**13. [System Design & Ownership](#12-system-design--ownership)**
    - Tell me about a system you designed and owned end-to-end
    - How do you approach migrating a legacy system to the cloud?
 
-**13. [Strengths & Weaknesses](#12-strengths--weaknesses)**
+**14. [Strengths & Weaknesses](#13-strengths--weaknesses)**
    - What are your top 3 strengths?
    - What are your top 3 weaknesses?
 
-**14. [Why Are You Looking to Move?](#13-why-are-you-looking-to-move)**
+**15. [Why Are You Looking to Move?](#14-why-are-you-looking-to-move)**
    - Why are you leaving your current role?
    - Why this company specifically?
 
-**15. [Questions for the Interviewer](#14-questions-for-the-interviewer)**
+**16. [Questions for the Interviewer](#15-questions-for-the-interviewer)**
 
-**16. [Quick Reference Flow Diagrams](#flow-diagrams)**
+**17. [Quick Reference Flow Diagrams](#flow-diagrams)**
 
-**17. [Bonus: Curveball Questions](#bonus-handling-curveball-questions)**
+**18. [Bonus: Curveball Questions](#bonus-handling-curveball-questions)**
    - What would you do if your manager asked you to do something against your values?
    - How do you handle criticism?
    - Where do you see yourself in 5 years?
 
-**18. [Introduction & Motivation (Additional)](#15-additional-questions-introduction--motivation)**
+**19. [Introduction & Motivation (Additional)](#16-additional-questions-introduction--motivation)**
    - Walk me through your resume
    - Why software engineering? What motivates you?
    - What kind of work do you enjoy most?
    - What are you most proud of in your career?
 
-**19. [Project Deep Dive (Additional)](#16-additional-project-deep-dive-questions)**
+**20. [Project Deep Dive (Additional)](#17-additional-project-deep-dive-questions)**
    - What tradeoffs did you make? What would you do differently now?
    - Tell me about a production issue you solved
    - Describe a system you optimized significantly
    - Tell me about a migration/modernization effort
 
-**20. [Conflict & Disagreement (Additional)](#17-additional-conflict--disagreement-questions)**
+**21. [Conflict & Disagreement (Additional)](#18-additional-conflict--disagreement-questions)**
    - Describe a time you influenced without authority
    - Tell me about a decision you strongly disagreed with
    - How do you handle receiving difficult feedback?
    - Describe a time you changed your mind
 
-**21. [Failure & Pressure (Additional)](#18-additional-failure--pressure-questions)**
+**22. [Failure & Pressure (Additional)](#19-additional-failure--pressure-questions)**
    - Tell me about a missed deadline
    - Tell me about a bad technical decision you made
    - Describe a time requirements changed suddenly
    - Describe balancing speed vs quality
 
-**22. [Googliness & Adaptability](#19-googliness--adaptability-questions)**
+**23. [Googliness & Adaptability](#20-googliness--adaptability-questions)**
    - Tell me about learning something quickly
    - Describe working in ambiguity
    - Tell me about adapting to change
    - Tell me about collaborating cross-functionally
    - Describe helping a struggling teammate
 
-**23. [Senior Engineer Specific](#20-senior-engineer-specific-questions)**
+**24. [Senior Engineer Specific](#21-senior-engineer-specific-questions)**
    - Tell me about influencing architecture direction
    - Describe balancing technical debt vs feature delivery
    - Tell me about a time you had to say "no" or push back on a product request
@@ -106,19 +109,19 @@
    - Explain how you drove standardization
    - Describe improving engineering productivity
 
-**24. [Career & Culture](#21-career--culture-questions)**
+**25. [Career & Culture](#22-career--culture-questions)**
    - What kind of culture do you prefer?
    - What excites you technically right now?
    - What would your manager say you need to improve?
    - Where do you see yourself in 5 years?
 
-**25. [Long-Term Vision & Scaling](#22-long-term-vision--scaling)**
+**26. [Long-Term Vision & Scaling](#23-long-term-vision--scaling)**
    - Tell me about your long-term technical vision for a system
    - Describe scaling an organization/process
 
-**26. [Updated Master Story Map](#23-updated-master-story-map)**
+**27. [Updated Master Story Map](#24-updated-master-story-map)**
 
-**27. [Final Tips for Senior-Level Interviews](#24-final-tips-for-senior-level-interviews)**
+**28. [Final Tips for Senior-Level Interviews](#25-final-tips-for-senior-level-interviews)**
 
 ---
 
@@ -198,21 +201,41 @@
 
 I’m Srinivas Balusu, a Lead Software Engineer with about 14 years of experience building large-scale distributed systems and cloud platforms.
 
-I currently lead two major systems: a Managed File Transfer platform processing 50K+ files daily, and a Kafka-based event pipeline handling 10 million events per day. Both run on AWS infrastructure services like — EKS, Transfer Family, EFS — and I own them from design through production operations.
+Over the years, I’ve naturally gravitated toward backend infrastructure and high-scale distributed systems — especially problems around scalability, reliability, performance optimization, and platform modernization. I enjoy working on systems that operate at meaningful scale and require balancing architectural tradeoffs with practical operational realities.
 
-Before Railinc, I was at Walmart where I solved what the team thought was an impossible latency problem in their supply chain automation. That project ended up saving around $12 million a year.
+At Railinc, I currently lead two major systems: a Managed File Transfer platform processing over 50,000 files daily, and a Kafka-based event pipeline handling more than 10 million events per day. Both run on AWS infrastructure using services like EKS, Transfer Family, and EFS, and I’m involved across the full lifecycle — architecture, development, performance optimization, and production operations.
 
-In my next role, I'm looking for an opportunity to work on a larger scale — more complex systems with stronger engineering peers, and problems that push me to grow.
+Before Railinc, I worked at Walmart on supply chain automation systems. One project I’m particularly proud of involved solving a latency problem that many on the team believed wasn’t achievable within the required SLA. I redesigned the processing approach using a pre-generation architecture, and the solution eventually contributed to roughly $12 million in annual operational savings.
+
+What I enjoy most about engineering is solving complex technical problems while also helping teams scale effectively — whether that’s improving system reliability, simplifying architectures, mentoring engineers, or driving better engineering practices.
+
+At this stage of my career, I’m looking for opportunities to work on even larger-scale systems alongside strong engineering teams, where I can continue growing as a technical leader and contribute to long-term platform and architectural decisions.
 
 ---
 
-## 2. Leadership & Influence
+## 2. Why Move from Lead Engineer to Senior Engineer at Google?
+
+### Q: Why move from Lead Engineer at a smaller company to Senior Engineer at Google?
+
+**Answer:**
+
+I've genuinely enjoyed my time at Railinc and had the opportunity to work on several large-scale distributed systems with significant ownership. Over the years, I've grown from primarily focusing on implementation to leading architecture decisions, modernization efforts, and operating critical production systems at scale.
+
+At this point in my career, I feel I'm looking for a different level of engineering challenge — particularly environments where the scale, complexity, and engineering rigor are even higher. I'm especially motivated by solving deeply distributed systems problems alongside very strong engineers who push my thinking and help me continue growing technically.
+
+That's one of the biggest reasons Google is exciting to me. The kinds of systems Google operates — globally distributed infrastructure, large-scale data processing, reliability engineering, platform architecture — align very closely with the areas I enjoy most.
+
+For me, this move isn't really about titles. I see Google's Senior Software Engineer role as an opportunity to operate at a much larger technical scale, learn from some of the best engineers in the industry, and contribute to systems that impact users globally.
+
+---
+
+## 3. Leadership & Influence
 
 ### Q: Tell me about a time you led a project under tight deadlines.
 
 **Story: RMS Cloud Migration at Railinc**
 
-**Situation:** We had a hard contractual deadline to migrate our Rail Management System from a monolithic Spring MVC application to microservices on AWS. Six weeks in, our only subject matter expert resigned — taking years of undocumented domain knowledge with him. The project was suddenly at risk of failing.
+**Situation:** We had a hard contractual deadline to migrate our Railinc Mesaging System from a monolithic Spring MVC application to microservices on AWS. Six weeks in, our only subject matter expert resigned — taking years of undocumented domain knowledge with him. The project was suddenly at risk of failing.
 
 **Task:** Keep the migration on track and deliver production-ready despite losing our single point of domain expertise, with no timeline extension available.
 
@@ -268,7 +291,7 @@ In my next role, I'm looking for an opportunity to work on a larger scale — mo
 
 ---
 
-## 3. Technical Decision Making
+## 4. Technical Decision Making
 
 ### Q: Tell me about a tough technical decision that impacted the team or project.
 
@@ -334,7 +357,7 @@ The team and I executed the migration in phases with rollback checkpoints at eac
 
 ---
 
-## 4. Conflict Resolution
+## 5. Conflict Resolution
 
 ### Q: Describe a situation where you resolved a conflict within your team.
 
@@ -420,7 +443,7 @@ The team and I executed the migration in phases with rollback checkpoints at eac
 
 ---
 
-## 5. Handling Pressure & Deadlines
+## 6. Handling Pressure & Deadlines
 
 ### Q: Tell me about a time you dealt with a high-pressure situation.
 
@@ -484,7 +507,7 @@ The team and I executed the migration in phases with rollback checkpoints at eac
 
 ---
 
-## 6. Innovation & Problem Solving
+## 7. Innovation & Problem Solving
 
 ### Q: Describe a time you introduced an innovative solution to a complex problem.
 
@@ -553,7 +576,7 @@ We also added backpressure signaling so producers slow down when consumers are o
 
 ---
 
-## 7. Failure & Learning
+## 8. Failure & Learning
 
 ### Q: Tell me about a time you failed at work.
 
@@ -622,7 +645,7 @@ We also added backpressure signaling so producers slow down when consumers are o
 
 ---
 
-## 8. Teamwork & Collaboration
+## 9. Teamwork & Collaboration
 
 ### Q: Describe a time when you worked effectively as a team.
 
@@ -683,7 +706,7 @@ We also added backpressure signaling so producers slow down when consumers are o
 
 ---
 
-## 9. Mentorship & Growing Others
+## 10. Mentorship & Growing Others
 
 ### Q: Tell me about a time you mentored someone.
 
@@ -747,7 +770,7 @@ We also added backpressure signaling so producers slow down when consumers are o
 
 ---
 
-## 10. Stakeholder Management
+## 11. Stakeholder Management
 
 ### Q: How have you dealt with a reluctant or uncooperative senior stakeholder?
 
@@ -792,7 +815,7 @@ We also added backpressure signaling so producers slow down when consumers are o
 
 ---
 
-## 11. System Design & Ownership
+## 12. System Design & Ownership
 
 ### Q: Tell me about a system you designed and owned end-to-end.
 
@@ -865,7 +888,7 @@ We also added backpressure signaling so producers slow down when consumers are o
 
 ---
 
-## 12. Strengths & Weaknesses
+## 13. Strengths & Weaknesses
 
 ### Q: What are your top 3 strengths?
 
@@ -899,7 +922,7 @@ Because I care about the team and the product, I tend to take on additional work
 
 ---
 
-## 13. Why Are You Looking to Move?
+## 14. Why Are You Looking to Move?
 
 ### Q: Why are you leaving your current role?
 
@@ -935,7 +958,7 @@ I am drawn to [Company] for three reasons:
 
 ---
 
-## 14. Questions for the Interviewer
+## 15. Questions for the Interviewer
 
 ### Technical Questions:
 
@@ -1151,7 +1174,7 @@ I am not looking to move into pure management. I want to grow on the technical l
 
 ---
 
-## 15. Additional Questions: Introduction & Motivation
+## 16. Additional Questions: Introduction & Motivation
 
 ### Q: Walk me through your resume.
 
@@ -1211,7 +1234,7 @@ Two things stand out:
 
 ---
 
-## 16. Additional Project Deep Dive Questions
+## 17. Additional Project Deep Dive Questions
 
 ### Q: What tradeoffs did you make? What would you do differently now?
 
@@ -1295,7 +1318,7 @@ Two things stand out:
 
 ---
 
-## 17. Additional Conflict & Disagreement Questions
+## 18. Additional Conflict & Disagreement Questions
 
 ### Q: Describe a time you influenced without authority.
 
@@ -1378,7 +1401,7 @@ He showed me PRs where I had left 30+ comments on non-critical style issues whil
 
 ---
 
-## 18. Additional Failure & Pressure Questions
+## 19. Additional Failure & Pressure Questions
 
 ### Q: Tell me about a missed deadline.
 
@@ -1477,7 +1500,7 @@ My framework for this trade-off:
 
 ---
 
-## 19. Googliness & Adaptability Questions
+## 20. Googliness & Adaptability Questions
 
 ### Q: Tell me about learning something quickly.
 
@@ -1581,7 +1604,7 @@ Additional example:
 
 ---
 
-## 20. Senior Engineer Specific Questions
+## 21. Senior Engineer Specific Questions
 
 ### Q: Tell me about influencing architecture direction.
 
@@ -1756,7 +1779,7 @@ At Railinc, I influenced the broader architecture direction in several ways:
 
 ---
 
-## 21. Career & Culture Questions
+## 22. Career & Culture Questions
 
 ### Q: What kind of culture do you prefer?
 
@@ -1824,7 +1847,7 @@ I am explicitly NOT looking to move into pure management. I want to grow on the 
 
 ---
 
-## 22. Long-Term Vision & Scaling
+## 23. Long-Term Vision & Scaling
 
 ### Q: Tell me about your long-term technical vision for a system.
 
@@ -1882,7 +1905,7 @@ I am explicitly NOT looking to move into pure management. I want to grow on the 
 
 ---
 
-## 23. Updated Master Story Map
+## 24. Updated Master Story Map
 
 ```
 +---------------------------------------------------------------------------------------------------------+
@@ -1964,7 +1987,7 @@ I am explicitly NOT looking to move into pure management. I want to grow on the 
 
 ---
 
-## 24. Final Tips for Senior-Level Interviews
+## 25. Final Tips for Senior-Level Interviews
 
 ```
 +-------------------------------------------------------------------+
