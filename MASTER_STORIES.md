@@ -1,5 +1,36 @@
 # Google L5/L6 Behavioral Interview — Master Stories
 
+## CARL Method — Story Structure
+
+Use the **CARL** framework for every behavioral answer:
+
+```
++------------+     +----------+     +----------+     +------------+
+|  CONTEXT   | --> |  ACTION  | --> |  RESULT  | --> | LEARNINGS  |
+| Situation  |     | What YOU |     | Outcome  |     | What you   |
+| + Stakes   |     | did      |     | + Metrics|     | took away  |
++------------+     +----------+     +----------+     +------------+
+```
+
+| Step | What to Cover | Timing |
+|------|---------------|--------|
+| **C** — Context | Company, project, what was at stake, why it mattered | 30 sec |
+| **A** — Action | Specific steps YOU took (use "I" and "we" mix) | 60–90 sec |
+| **R** — Result | Measurable outcome, business impact, what changed | 20 sec |
+| **L** — Learnings | What you'd do differently, what principle you took away | 15 sec |
+
+**Why CARL over STAR?**
+- STAR (Situation, Task, Action, Result) is fine but misses the **Learnings** — which is what separates senior engineers from mid-level. Google interviewers specifically look for reflection, growth, and judgment maturity.
+- The "Learnings" step shows you're not just executing — you're evolving your engineering philosophy.
+
+**Tips:**
+- Context should create tension ("the math didn't work", "we were understaffed", "there was no spec")
+- Action should show ownership + collaboration ("I led... the team and I validated...")
+- Result should have numbers when possible ($12M, 3x, 60%)
+- Learnings should be a genuine insight, not a platitude ("I learned that reframing the problem is often more powerful than optimizing within the existing constraints")
+
+---
+
 ## Overview
 
 These are the 6 master behavioral stories optimized for senior/staff-level distributed systems and platform engineering interviews.
