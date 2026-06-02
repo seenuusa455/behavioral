@@ -207,7 +207,7 @@ At Railinc, I currently lead two major systems: a Managed File Transfer platform
 
 Before Railinc, I worked at Walmart on supply chain automation systems. One project I'm particularly proud of involved solving a latency problem that many on the team believed wasn't achievable within the required SLA. I redesigned the processing approach using a pre-generation architecture, and the solution eventually contributed to roughly $12 million in annual operational savings.
 
-What I enjoy most about engineering is solving complex technical problems while also helping teams scale effectively — whether that's improving system reliability, simplifying architectures, mentoring engineers, or driving better engineering practices.
+What I enjoy most about engineering is solving complex technical problems while also helping teams scale effectively — whether that's improving system reliability, simplifying architectures, mentoring engineers, or driving better engineering practices such as code reviews, automated testing, CI/CD adoption, observability, performance optimization, incident management, and establishing engineering standards that improve delivery quality and maintainability.
 
 At this stage of my career, I'm looking for opportunities to work on even larger-scale systems alongside strong engineering teams, where I can continue growing as a technical leader and contribute to long-term platform and architectural decisions.
 
