@@ -203,7 +203,7 @@ I'm Srinivas Balusu, a Lead Software Engineer with about 14 years of experience 
 
 Over the years, I've naturally gravitated toward backend infrastructure and high-scale distributed systems — especially problems around scalability, reliability, performance optimization, and platform modernization. I enjoy working on systems that operate at meaningful scale and require balancing architectural tradeoffs with practical operational realities.
 
-At Railinc, I currently lead two major systems: a Managed File Transfer platform processing over 50,000 files daily, and a Kafka-based event pipeline handling more than 10 million events per day. Both run on AWS infrastructure using services like EKS, Transfer Family, and EFS, and I'm involved across the full lifecycle — architecture, development, performance optimization, and production operations.
+At Railinc, I currently lead two major systems: a Managed File Transfer platform processing over 1 million files daily, and a Kafka-based event pipeline handling more than 50 million events per day. Both run on AWS infrastructure using services like EKS, Transfer Family, and EFS, and I'm involved across the full lifecycle — architecture, development, performance optimization, and production operations.
 
 Before Railinc, I worked at Walmart on supply chain automation systems. One project I'm particularly proud of involved solving a latency problem that many on the team believed wasn't achievable within the required SLA. I redesigned the processing approach using a pre-generation architecture, and the solution eventually contributed to roughly $12 million in annual operational savings.
 
