@@ -14,13 +14,17 @@
 
 ## 1. Tell Me About Yourself
 
-I’m Srinivas Balusu — Lead Software Engineer at Railinc with 14 years in distributed systems. I spend about 80% of my time hands-on with code and architecture.
+I'm Srinivas Balusu, a Lead Software Engineer with about 14 years of experience building large-scale distributed systems and cloud platforms.
 
-I currently lead two major systems: a Managed File Transfer platform processing 50K+ files daily, and a Kafka-based event pipeline handling 10 million events per day. Both run on AWS — EKS, Transfer Family, EFS — and I own them from design through production operations.
+Over the years, I've naturally gravitated toward backend infrastructure and high-scale distributed systems — especially problems around scalability, reliability, performance optimization, and platform modernization. I enjoy working on systems that operate at meaningful scale and require balancing architectural tradeoffs with practical operational realities.
 
-Before Railinc, I was at Walmart where I solved what the team thought was an impossible latency problem in their supply chain automation. That project ended up saving around  million a year.
+At Railinc, I currently lead two major systems: a Managed File Transfer platform processing over 1 million files daily, and a Kafka-based event pipeline handling more than 50 million events per day. Both run on AWS infrastructure using services like EKS, Transfer Family, and EFS, and I'm involved across the full lifecycle — architecture, development, performance optimization, and production operations.
 
-I’m looking for a Senior Engineer role at a larger scale — more complex systems, stronger engineering peers, and problems that push me to grow.
+Before Railinc, I worked at Walmart on supply chain automation systems. One project I'm particularly proud of involved solving a latency problem that many on the team believed wasn't achievable within the required SLA. I redesigned the processing approach using a pre-generation architecture, and the solution eventually contributed to roughly $12 million in annual operational savings.
+
+What I enjoy most about engineering is solving complex technical problems while also helping teams scale effectively — whether that's improving system reliability, simplifying architectures, mentoring engineers, or driving better engineering practices such as code reviews, automated testing, CI/CD adoption, observability, performance optimization, incident management, and establishing engineering standards that improve delivery quality and maintainability.
+
+At this stage of my career, I'm looking for opportunities to work on even larger-scale systems alongside strong engineering teams, where I can continue growing as a technical leader and contribute to long-term platform and architectural decisions.
 
 ---
 
