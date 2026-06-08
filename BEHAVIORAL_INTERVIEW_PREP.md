@@ -211,6 +211,8 @@ What I enjoy most about engineering is solving complex technical problems while 
 
 At this stage of my career, I'm looking for opportunities to work on even larger-scale systems alongside strong engineering teams, where I can continue growing as a technical leader and contribute to long-term platform and architectural decisions.
 
+I'm particularly drawn to Google because of the technical rigor and scale you operate at globally — how you approach infrastructure reliability, observability, consistency guarantees across continents. That level of depth is exactly where I want to grow next.
+
 ---
 
 ## 2. Why Move from Lead Engineer to Senior Engineer at Google?
