@@ -34,6 +34,8 @@
 
 ## Section 1 — Company Overview {#section-1}
 
+From what I’ve learned, OneTrust is an enterprise SaaS company focused on helping organizations manage privacy, AI governance, compliance, and data risk from a single platform. As companies adopt more AI and operate under increasing regulatory requirements, OneTrust helps them use data responsibly while remaining compliant. What attracted me most is the technical complexity of the platform and the opportunity to solve challenging enterprise-scale problems while working closely with customers and engineering teams.
+
 ### Who They Are
 
 OneTrust was founded in 2016 in Atlanta, Georgia. It started as a consent management and privacy compliance tool — basically helping companies figure out GDPR. It grew fast. Really fast. Within a few years it had expanded into a full trust intelligence platform covering privacy, security, ethics, ESG, and third-party risk.
